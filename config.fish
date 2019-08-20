@@ -1,6 +1,7 @@
 set PATH /home/mgoin/.local/bin $PATH
 
 export BROWSER=/usr/bin/google-chrome-stable
+export EDITOR=/usr/bin/vim
 
 set -g theme_short_path yes
 
